@@ -14,7 +14,7 @@ const mishellconese = {
 
 ## Knowledges  👩‍💻 
 
-<img align="right" alt="GIF" src= "https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e479y3p8apsjcar7gz4gsg196sqbhaavtvzt5ws2dfx&rid=giphy.gif&ct=g" />
+<img align="right"  widt="5px" heigt="25" alt="GIF" src= "https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e479y3p8apsjcar7gz4gsg196sqbhaavtvzt5ws2dfx&rid=giphy.gif&ct=g" />
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/mishellconese/)](https://github.com/mishellconese/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/LuizCarlosAbbott/)](https://github.com/mishellconese/)
