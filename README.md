@@ -1,6 +1,8 @@
 ![Frame 1](https://user-images.githubusercontent.com/74798783/191895711-173c6f64-6728-4486-aac8-bd88c5a8f1e8.png)
  
 # <a>Hi there, I'm Mishell 👋</a> 
+
+I am passionate about programming, design and others focused on technology, in addition to science from Colombia. Currently learning Deep Reinforcement Learning.
  
 ```javascript
 const mishellconese = {
