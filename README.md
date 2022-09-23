@@ -1,12 +1,14 @@
 ### Hi there, I'm Mishell 👋
 
+![Frame 1](https://user-images.githubusercontent.com/74798783/191895711-173c6f64-6728-4486-aac8-bd88c5a8f1e8.png)
+
 ```javascript
 const mishellconese = {
   pronouns: "she" | "her",
   technologies: {
     frontend: {
       code: [Javascript, HTML, CSS],
-      tools: [React],
+      tools: [React, git],
     }
   }
 };
