@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Mishell 👋
+
+```javascript
+const mishellconese = {
+  pronouns: "she" | "her",
+  technologies: {
+    frontend: {
+      code: [Javascript, HTML, CSS],
+      tools: [React],
+    }
+  }
+};
+```
+You can find me 🌎:
+- [Instagram](https://instagram.com/mishellconese)
+-  [Linkedin](https://linkedin.com/mishellconese)
 
 <!--
 **mishellconese/mishellconese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
